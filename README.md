@@ -9,7 +9,7 @@ N'hésitez pas à explorer les fichiers de code source pour voir les implémenta
 
 ## Structure du projet
 
-- `01_variables` : Exercices sur les variables en Dart.
+- `01_string` : Exercices sur les variables en Dart.
 - `02_conditions` : Exercices sur les structures conditionnelles.
 - `03_boucles` : Exercices sur les boucles en Dart.
 - `04_functions` : Exercices sur les fonctions en Dart.
